@@ -32,5 +32,3 @@ if __name__ == '__main__':
     cricle_s = math.pi*(float(radius))**2   #圆面积
     print('半径为%s的圆周长为：' %radius + str(cricle_l))
     print('半径为%s的圆面积为：' %radius + str(cricle_l))
-
-    
